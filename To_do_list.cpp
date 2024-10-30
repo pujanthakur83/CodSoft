@@ -56,6 +56,7 @@ class ToDoList {
 };
 
 int main() {
+    system("clr");
     system("color 5");
     ToDoList mylist; //create a class instant 
     int choice; //intilized choice where user can chose option
